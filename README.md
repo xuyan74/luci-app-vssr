@@ -62,9 +62,9 @@
 ```
 cd lede/package/lean/  
 
-git clone https://github.com/jerrykuku/lua-maxminddb.git  #git lua-maxminddb 依赖
+git clone https://github.com/xuyan74/lua-maxminddb.git  #git lua-maxminddb 依赖
 
-git clone https://github.com/jerrykuku/luci-app-vssr.git  
+git clone https://github.com/xuyan74/luci-app-vssr.git  
 
 make menuconfig
 
